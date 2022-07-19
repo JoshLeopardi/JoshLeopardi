@@ -10,4 +10,4 @@
    <img src="https://alfredoalarcon.com/static/main/img/logos-stack/javascript.png" alt="Javascript" width="50" height="50" style="vertical-align:top; margin:5px">
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" alt="react" width="50" height="50" style="vertical-align:top; margin:5px">
   
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg' width="50" height="50" style="vertical-align:top; margin:5px">
