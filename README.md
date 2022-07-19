@@ -12,6 +12,7 @@
   
    
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg' width="50" height="50" style="vertical-align:top; margin:5px">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/java-original.svg' width="50" height="50" style="vertical-align:top; margin:5px">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/javascript-original.svg' width="50" height="50" style="vertical-align:top; margin:5px">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/html-original.svg' width="50" height="50" style="vertical-align:top; margin:5px">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' width="50" height="50" style="vertical-align:top; margin:5px">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width="50" height="50" style="vertical-align:top; margin:5px">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' width="50" height="50" style="vertical-align:top; margin:5px">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' width="50" height="50" style="vertical-align:top; margin:5px">
