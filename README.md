@@ -1,7 +1,5 @@
 ### Hi, I'm Josh!
 
-📫 &nbsp;[LinkedIn](https://www.linkedin.com/in/joshleopardi/)
-
 ### My Experience:
 <p align="left">
 
